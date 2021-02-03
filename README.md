@@ -1,1 +1,2 @@
+ようこそ！
 github pages test
