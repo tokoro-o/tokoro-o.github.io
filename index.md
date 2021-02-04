@@ -17,7 +17,7 @@
 * この会はTwitterなどではあまりつぶやけないような人でも ~~(tokoro-o)~~ 参加できるような、閉鎖的な会にする方針なので主にこのDiscord鯖で交流することを考えております。  
 ### 連絡先
 この会を作った人:tokoro-o(ところ、ところ_お、ところお)  
-Email: [こちら](https://tokoro-o.github.io/assets/images/mail_address.png)  
+Email: [こちら](https://tokoro-o.github.io/assets/images/ma_ad.png)  
 Discord: 所_#6749
 
 ### 課題点
