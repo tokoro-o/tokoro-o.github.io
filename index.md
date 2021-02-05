@@ -13,7 +13,7 @@
 * ここで書きたい人は下記の連絡先にその旨とgmailのアドレスを送れば共同参加者として招待します。
   * （できればそこでDiscordにも参加してくれると助かります）
 
-同好会Discord: [Discord](https://discord.com)  
+同好会Discord: [Discord](https://discord.gg/C8UW7caYBN)  
 * これ書いてて人が全く来ない未来が見えて創設するぞという気持ちが若干萎縮しました。
 * この会はTwitterなどではあまりつぶやけないような人でも ~~(tokoro-o)~~ 参加できるような、閉鎖的な会にする方針なので主にこのDiscord鯖で交流することを考えております。  
 
